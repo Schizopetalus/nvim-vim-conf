@@ -5,6 +5,6 @@
 " ************************ Configuration des plugins ***********************
 
 " papercolor-theme
-set t_Co=256
-set background=dark
-colorscheme PaperColor
+"set t_Co=256
+"set background=dark
+"colorscheme PaperColor

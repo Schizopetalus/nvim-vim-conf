@@ -12,9 +12,13 @@ Plug 'scrooloose/nerdtree'
 " ***************    test plugins   **************
 "Plug 'kassio/neoterm'
 Plug 'jalvesaq/vimcmdline'
+"Plug 'altercation/solarized'
+Plug 'joshdick/onedark.vim'
+Plug 'sheerun/vim-polyglot'
 call plug#end()
 
 " ************** configuration des plugins
 source ~/.config/nvim/minimal_plugins.vim
 source ~/.config/nvim/stable_plugins.vim
+source ~/.config/nvim/test_plugins.vim
 
